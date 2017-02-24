@@ -17,7 +17,7 @@
 			$func = strtolower(trim(str_replace("/","",$_REQUEST['action'])));
 			if((int)method_exists($this,$func) > 0) {
 				$result = $this->$func($filepath,$pricerange,$color,$category,$sortby);
-				echo $result;
+				$this->response($result,200);
 			}else {
 				$this->response('',404);				// If the method not exist with in this class, response would be "Page not found".
 			}
