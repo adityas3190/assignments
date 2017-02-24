@@ -14,7 +14,7 @@
 		 *
 		 */
 		public function processApi($filepath,$pricerange='',$color='',$category='',$sortby=''){
-			$func = strtolower(trim(str_replace("/","",$_REQUEST['action'])));
+			$func = strtolower(trim(str_replace("/[\\]/g","",$_REQUEST['action'])));
 			if((int)method_exists($this,$func) > 0) {
 				$result = $this->$func($filepath,$pricerange,$color,$category,$sortby);
 				$this->response($result,200);
