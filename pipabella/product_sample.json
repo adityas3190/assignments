@@ -1,0 +1,1802 @@
+[
+  {
+    "product_id": 2030,
+    "sku": "N01P2001",
+    "name": "Block Letter Pendant",
+    "price": 1300,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/b/l/block_letter_pendant_.jpg"
+  },
+  {
+    "product_id": 2031,
+    "sku": "N01P2002",
+    "name": "Cursive English Pendant",
+    "price": 1300,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/c/u/cursive_english_pendant_1.jpg"
+  },
+  {
+    "product_id": 2032,
+    "sku": "N01P2003",
+    "name": "Cursive Hindi Pendant",
+    "price": 1300,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/c/u/cursive_hindi_pendant_3.jpg"
+  },
+  {
+    "product_id": 2033,
+    "sku": "N01P2004",
+    "name": "Cut-Out Bar Pendant",
+    "price": 1300,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/c/u/cut-out_bar_pendant.jpg"
+  },
+  {
+    "product_id": 2036,
+    "sku": "N01P2007",
+    "name": "Heart-Lined Cursive Pendant",
+    "price": 1350,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/h/e/heart-lined_cursive_pendant.jpg"
+  },
+  {
+    "product_id": 2037,
+    "sku": "N01P2008",
+    "name": "Indi Script Pendant",
+    "price": 1400,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/i/n/indi_script_pendant_3_1.jpg"
+  },
+  {
+    "product_id": 2038,
+    "sku": "N01P2009",
+    "name": "Infinity Style Pendant",
+    "price": 1400,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/i/n/infinity_style_pendant_3.jpg"
+  },
+  {
+    "product_id": 2039,
+    "sku": "N01P2010",
+    "name": "Customizable Logo Pendant",
+    "price": 1550,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/c/u/customizable_logo_pendant_1.jpg"
+  },
+  {
+    "product_id": 3039,
+    "sku": "JY/01/E01/027/15",
+    "name": "Myrtle Gold Earrings",
+    "price": 850,
+    "color": "Gold",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/m/y/myrtle_gold_earrings_1.jpg"
+  },
+  {
+    "product_id": 3041,
+    "sku": "JY/01/R01/029/15",
+    "name": "Rivet Gold Ring",
+    "price": 400,
+    "color": "Gold",
+    "product_type": "Rings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/r/i/rivet_gold_ring.jpg"
+  },
+  {
+    "product_id": 3180,
+    "sku": "JY/03/E01/311/15",
+    "name": "Glamshot Ear Jackets",
+    "price": 600,
+    "color": "White",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/g/l/glamshot_ear_jackets1.jpg"
+  },
+  {
+    "product_id": 3181,
+    "sku": "JY/03/E02/612/15",
+    "name": "Glacier Bar Earrings",
+    "price": 900,
+    "color": "White",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/g/l/glacier_earrings1.jpg"
+  },
+  {
+    "product_id": 3225,
+    "sku": "JY/03/E07/056/15",
+    "name": "Cassiopeia Ear Cuff",
+    "price": 700,
+    "color": "White",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/c/a/cassiopeia_ear_cuff1.jpg"
+  },
+  {
+    "product_id": 3629,
+    "sku": "SE-02-B01-155-15",
+    "name": "Joan Leaf Bracelet",
+    "price": 850,
+    "color": "White",
+    "product_type": "Bracelets",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/j/o/joan_leaf_bracelet.jpg"
+  },
+  {
+    "product_id": 3689,
+    "sku": "N01P2021",
+    "name": "Dual Infinity Style Pendant",
+    "price": 1550,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/d/u/dual_infinity_style_pendant_1.jpg"
+  },
+  {
+    "product_id": 3758,
+    "sku": "OC-01-E01-109-15",
+    "name": "Red Tassel Crystal Earrings",
+    "price": 895,
+    "color": "Red",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/O/C/OC-01-E01-109-15_1.jpg"
+  },
+  {
+    "product_id": 3857,
+    "sku": "OC-02-N06-019-15",
+    "name": "Foster Pearl Necklace",
+    "price": 745,
+    "color": "Black",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/f/o/foster_pearl_necklace.jpg"
+  },
+  {
+    "product_id": 3900,
+    "sku": "OC-02-N04-065-15",
+    "name": "Iris Beaded Necklace",
+    "price": 1195,
+    "color": "White",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/i/r/iris_beaded_necklace.jpg"
+  },
+  {
+    "product_id": 3901,
+    "sku": "OC-02-N05-066-15",
+    "name": "Noir Pop Tassle Necklace",
+    "price": 1195,
+    "color": "Black",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/O/C/OC-02-N05-066-15_1.jpg"
+  },
+  {
+    "product_id": 3910,
+    "sku": "OC-02-N01-304-15",
+    "name": "Cylindric Pendant Necklace",
+    "price": 745,
+    "color": "White",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/c/y/cylindric_pendant_necklace_1.jpg"
+  },
+  {
+    "product_id": 3923,
+    "sku": "OC-02-N02-309-15",
+    "name": "Say Hello Necklace",
+    "price": 495,
+    "color": "Gold",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/O/C/OC-02-N02-309-15_1.jpg"
+  },
+  {
+    "product_id": 3926,
+    "sku": "OC-02-N02-308-15",
+    "name": "Love Hue Necklace",
+    "price": 745,
+    "color": "Multi-Color",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/l/o/love_hue_necklace.jpg"
+  },
+  {
+    "product_id": 4088,
+    "sku": "NV-01-N02-345-15",
+    "name": "Choker Tassle Necklace",
+    "price": 995,
+    "color": "Black",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/c/h/choker_tassle_necklace_1.jpg"
+  },
+  {
+    "product_id": 4094,
+    "sku": "NV-01-N02-348-15",
+    "name": "Gray Choker Tassle Necklace",
+    "price": 995,
+    "color": "Black",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/g/r/gray_choker_tassle_necklace.jpg"
+  },
+  {
+    "product_id": 4099,
+    "sku": "NV-01-N02-353-15",
+    "name": "Brown Choker Tassle Necklace",
+    "price": 995,
+    "color": "Orange",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/b/r/brown_choker_tassle_necklace_1.jpg"
+  },
+  {
+    "product_id": 4110,
+    "sku": "NV-01-N02-363-15",
+    "name": "Burne Tassle Necklace",
+    "price": 645,
+    "color": "Orange",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/b/u/burne_tassle_necklace_1.jpg"
+  },
+  {
+    "product_id": 4140,
+    "sku": "NV-01-N01-304-15",
+    "name": "Crystal Box Necklace",
+    "price": 1445,
+    "color": "White",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/c/r/crystal_box_necklace_1.jpg"
+  },
+  {
+    "product_id": 4269,
+    "sku": "NV-02-B01-301-15",
+    "name": "White Coin Charm Beacelet",
+    "price": 599,
+    "color": "White",
+    "product_type": "Bracelets",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/w/h/white-coin-charm-beacelet.jpg_3.jpg"
+  },
+  {
+    "product_id": 4270,
+    "sku": "NV-02-B01-302-15",
+    "name": "Black Coin Charm Bracelet",
+    "price": 599,
+    "color": "Black",
+    "product_type": "Bracelets",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/b/l/black-coin-charm-beacelet.jpg_3.jpg"
+  },
+  {
+    "product_id": 4296,
+    "sku": "NV-02-E02-308-15",
+    "name": "Black Opulence Earrings",
+    "price": 399,
+    "color": "Black",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/b/l/black_opulence_earrings_1.jpg"
+  },
+  {
+    "product_id": 4297,
+    "sku": "NV-02-E02-309-15",
+    "name": "Blue Opulence Earrings",
+    "price": 399,
+    "color": "Peach",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/b/l/blue-opulence-earrings.jpg_3.jpg"
+  },
+  {
+    "product_id": 4490,
+    "sku": "N01P2022",
+    "name": "Cursive English Pendant-Silver",
+    "price": 1300,
+    "color": "Silver",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/c/u/cursive_english_pendant-silver.jpg"
+  },
+  {
+    "product_id": 4497,
+    "sku": "N01P1101",
+    "name": "Silver Cut-Out Bar Pendant",
+    "price": 1300,
+    "color": "Silver",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/s/i/silver_cut-out_bar_pendant.jpg"
+  },
+  {
+    "product_id": 4501,
+    "sku": "DC-02-E01-004-15",
+    "name": "Dainty Circle Earrings",
+    "price": 549,
+    "color": "Gold",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/D/C/DC-02-E01-004-15_1.jpg"
+  },
+  {
+    "product_id": 4507,
+    "sku": "DC-02-E01-010-15",
+    "name": "Circular Inception Earrings",
+    "price": 649,
+    "color": "White",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/D/C/DC-02-E01-010-15_1.jpg"
+  },
+  {
+    "product_id": 4631,
+    "sku": "DC-03-B01-106-15",
+    "name": "Circular Hope Bracelet",
+    "price": 445,
+    "color": "Gold",
+    "product_type": "Bracelets",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/c/i/circular_hope_bracelet.jpg"
+  },
+  {
+    "product_id": 4663,
+    "sku": "DC-02-E01-703-15",
+    "name": "Gold Flower Crystal Earrings",
+    "price": 599,
+    "color": "Gold",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/D/C/DC-02-E01-703-15_1.jpg"
+  },
+  {
+    "product_id": 4683,
+    "sku": "DC-02-E01-808-15",
+    "name": "Pearl Spike Earrings",
+    "price": 599,
+    "color": "White",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/p/e/pearl_spike_earrings.jpg"
+  },
+  {
+    "product_id": 4778,
+    "sku": "NV-01-C01-119-15",
+    "name": "Hot Air Balloon",
+    "price": 190,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-119-15_1_1.jpg"
+  },
+  {
+    "product_id": 4779,
+    "sku": "NV-01-C01-120-15",
+    "name": "Sailor Wheel",
+    "price": 210,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-120-15_1_1.jpg"
+  },
+  {
+    "product_id": 4781,
+    "sku": "NV-01-C01-122-15",
+    "name": "Live Love Laugh 2.0",
+    "price": 210,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/i/m/img_1934.jpg"
+  },
+  {
+    "product_id": 4786,
+    "sku": "NV-01-C01-128-15",
+    "name": "Silver Hot Air Balloon",
+    "price": 190,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/i/m/img_7179_copy.jpg"
+  },
+  {
+    "product_id": 4787,
+    "sku": "NV-01-C01-129-15",
+    "name": "Silver Sailor Wheel",
+    "price": 210,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-129-15_1_1.jpg"
+  },
+  {
+    "product_id": 4795,
+    "sku": "NV-01-C01-138-15",
+    "name": "Silver Black Tassel",
+    "price": 199,
+    "color": "Black",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-138-15_1_1.jpg"
+  },
+  {
+    "product_id": 4797,
+    "sku": "NV-01-C01-140-15",
+    "name": "Silver Green Tassel",
+    "price": 199,
+    "color": "Green",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-140-15_1_1.jpg"
+  },
+  {
+    "product_id": 4801,
+    "sku": "NV-01-C01-146-15",
+    "name": "Silver White Tassel",
+    "price": 199,
+    "color": "White",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-146-15_1_1.jpg"
+  },
+  {
+    "product_id": 4805,
+    "sku": "NV-01-C01-155-15",
+    "name": "Silver Deep Blue Tassel",
+    "price": 199,
+    "color": "Peach",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-155-15_1.jpg"
+  },
+  {
+    "product_id": 4808,
+    "sku": "NV-01-C01-158-15",
+    "name": "Silver B",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-158-15_1_1.jpg"
+  },
+  {
+    "product_id": 4809,
+    "sku": "NV-01-C01-159-15",
+    "name": "Silver C",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-159-15_1_1.jpg"
+  },
+  {
+    "product_id": 4810,
+    "sku": "NV-01-C01-160-15",
+    "name": "Silver D",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-160-15_1_1.jpg"
+  },
+  {
+    "product_id": 4811,
+    "sku": "NV-01-C01-161-15",
+    "name": "Silver E",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-161-15_1_1.jpg"
+  },
+  {
+    "product_id": 4812,
+    "sku": "NV-01-C01-162-15",
+    "name": "Silver F",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-162-15_1.jpg"
+  },
+  {
+    "product_id": 4813,
+    "sku": "NV-01-C01-163-15",
+    "name": "Silver G",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-163-15_1_1.jpg"
+  },
+  {
+    "product_id": 4814,
+    "sku": "NV-01-C01-164-15",
+    "name": "Silver H",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-164-15_1_1.jpg"
+  },
+  {
+    "product_id": 4815,
+    "sku": "NV-01-C01-165-15",
+    "name": "Silver I",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-165-15_1_1.jpg"
+  },
+  {
+    "product_id": 4816,
+    "sku": "NV-01-C01-166-15",
+    "name": "Silver J",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/n/v/nv-01-c01-166-15-1.jpg"
+  },
+  {
+    "product_id": 4817,
+    "sku": "NV-01-C01-167-15",
+    "name": "Silver K",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-167-15_1_1.jpg"
+  },
+  {
+    "product_id": 4818,
+    "sku": "NV-01-C01-168-15",
+    "name": "Silver L",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-168-15_1_1.jpg"
+  },
+  {
+    "product_id": 4820,
+    "sku": "NV-01-C01-170-15",
+    "name": "Silver N",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-170-15_1.jpg"
+  },
+  {
+    "product_id": 4821,
+    "sku": "NV-01-C01-171-15",
+    "name": "Silver O",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-171-15_1_1.jpg"
+  },
+  {
+    "product_id": 4822,
+    "sku": "NV-01-C01-172-15",
+    "name": "Silver P",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-172-15_1.jpg"
+  },
+  {
+    "product_id": 4823,
+    "sku": "NV-01-C01-173-15",
+    "name": "Silver Q",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-173-15_1_1.jpg"
+  },
+  {
+    "product_id": 4826,
+    "sku": "NV-01-C01-176-15",
+    "name": "Silver T",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-176-15_1_1.jpg"
+  },
+  {
+    "product_id": 4827,
+    "sku": "NV-01-C01-177-15",
+    "name": "Silver U",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-177-15_1_1.jpg"
+  },
+  {
+    "product_id": 4828,
+    "sku": "NV-01-C01-178-15",
+    "name": "Silver V",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-178-15_1.jpg"
+  },
+  {
+    "product_id": 4829,
+    "sku": "NV-01-C01-179-15",
+    "name": "Silver W",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-179-15_1_1.jpg"
+  },
+  {
+    "product_id": 4830,
+    "sku": "NV-01-C01-180-15",
+    "name": "Silver X",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-180-15_1.jpg"
+  },
+  {
+    "product_id": 4831,
+    "sku": "NV-01-C01-181-15",
+    "name": "Silver Y",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-181-15_1_1.jpg"
+  },
+  {
+    "product_id": 4832,
+    "sku": "NV-01-C01-182-15",
+    "name": "Silver Z",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-182-15_1_1.jpg"
+  },
+  {
+    "product_id": 4867,
+    "sku": "NV-01-C01-183-15",
+    "name": "Dual Star",
+    "price": 199,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/i/m/img_7181_copy_1_.jpg"
+  },
+  {
+    "product_id": 4868,
+    "sku": "NV-01-C01-184-15",
+    "name": "Flamingo",
+    "price": 249,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-184-15_1_1.jpg"
+  },
+  {
+    "product_id": 4872,
+    "sku": "NV-01-C01-188-15",
+    "name": 2016,
+    "price": 199,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-188-15_1.jpg"
+  },
+  {
+    "product_id": 4875,
+    "sku": "NV-01-C01-191-15",
+    "name": "Silver Dual Star",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/i/m/img_7182_copy.jpg"
+  },
+  {
+    "product_id": 4876,
+    "sku": "NV-01-C01-192-15",
+    "name": "Silver Flamingo",
+    "price": 249,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-192-15_1_1.jpg"
+  },
+  {
+    "product_id": 4880,
+    "sku": "NV-01-C01-196-15",
+    "name": "Silver 2016",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/n/v/nv-01-c01-196-15-_1.jpg"
+  },
+  {
+    "product_id": 5008,
+    "sku": "NV-01-C01-199-15",
+    "name": "Capricorn",
+    "price": 199,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-199-15_1_1.jpg"
+  },
+  {
+    "product_id": 5009,
+    "sku": "NV-01-C01-200-15",
+    "name": "Aquarius",
+    "price": 199,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-200-15_1_1.jpg"
+  },
+  {
+    "product_id": 5010,
+    "sku": "NV-01-C01-201-15",
+    "name": "Libra",
+    "price": 199,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-201-15_1_1.jpg"
+  },
+  {
+    "product_id": 5011,
+    "sku": "NV-01-C01-202-15",
+    "name": "Aries",
+    "price": 199,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-202-15_1_1.jpg"
+  },
+  {
+    "product_id": 5012,
+    "sku": "NV-01-C01-203-15",
+    "name": "Taurus",
+    "price": 199,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-203-15_1_1.jpg"
+  },
+  {
+    "product_id": 5013,
+    "sku": "NV-01-C01-204-15",
+    "name": "Leo",
+    "price": 199,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-204-15_1_1.jpg"
+  },
+  {
+    "product_id": 5014,
+    "sku": "NV-01-C01-205-15",
+    "name": "Gemini",
+    "price": 199,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-205-15_1_1.jpg"
+  },
+  {
+    "product_id": 5015,
+    "sku": "NV-01-C01-206-15",
+    "name": "Pisces",
+    "price": 199,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-206-15_1_1.jpg"
+  },
+  {
+    "product_id": 5017,
+    "sku": "NV-01-C01-208-15",
+    "name": "Sagittarius",
+    "price": 199,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-208-15_1_1.jpg"
+  },
+  {
+    "product_id": 5018,
+    "sku": "NV-01-C01-209-15",
+    "name": "Scorpio",
+    "price": 199,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-209-15_1_1.jpg"
+  },
+  {
+    "product_id": 5019,
+    "sku": "NV-01-C01-210-15",
+    "name": "Cancer",
+    "price": 199,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-210-15_1_1.jpg"
+  },
+  {
+    "product_id": 5020,
+    "sku": "NV-01-C01-211-15",
+    "name": "Silver Capricorn",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-211-15_1_1.jpg"
+  },
+  {
+    "product_id": 5021,
+    "sku": "NV-01-C01-212-15",
+    "name": "Silver Aquarius",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-212-15_1.jpg"
+  },
+  {
+    "product_id": 5022,
+    "sku": "NV-01-C01-213-15",
+    "name": "Silver Libra",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/l/i/libra_s.jpg"
+  },
+  {
+    "product_id": 5023,
+    "sku": "NV-01-C01-214-15",
+    "name": "Silver Aries",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-214-15_1_1.jpg"
+  },
+  {
+    "product_id": 5025,
+    "sku": "NV-01-C01-216-15",
+    "name": "Silver Leo",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-216-15_1_1.jpg"
+  },
+  {
+    "product_id": 5026,
+    "sku": "NV-01-C01-217-15",
+    "name": "Silver Gemini",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-217-15_1_1.jpg"
+  },
+  {
+    "product_id": 5027,
+    "sku": "NV-01-C01-218-15",
+    "name": "Silver Pisces",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-218-15_1.jpg"
+  },
+  {
+    "product_id": 5028,
+    "sku": "NV-01-C01-219-15",
+    "name": "Silver Virgo",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-219-15_1.jpg"
+  },
+  {
+    "product_id": 5029,
+    "sku": "NV-01-C01-220-15",
+    "name": "Silver Sagittarius",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-220-15_1_1.jpg"
+  },
+  {
+    "product_id": 5030,
+    "sku": "NV-01-C01-221-15",
+    "name": "Silver Scorpio",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-221-15_1_1.jpg"
+  },
+  {
+    "product_id": 5031,
+    "sku": "NV-01-C01-222-15",
+    "name": "Silver Cancer",
+    "price": 199,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-222-15_1_1.jpg"
+  },
+  {
+    "product_id": 5142,
+    "sku": "FE-01-N01-208-16",
+    "name": "Invisible Fan Necklace",
+    "price": 1299,
+    "color": "White",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/i/n/invisible_fan_necklace.jpg"
+  },
+  {
+    "product_id": 5162,
+    "sku": "FE-01-N01-305-16",
+    "name": "White Ore Statement Necklace",
+    "price": 2199,
+    "color": "White",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/w/h/white_ore_statement_necklace.jpg"
+  },
+  {
+    "product_id": 5165,
+    "sku": "FE-01-E01-316-16",
+    "name": "Bow Crystal Tassel Earrings",
+    "price": 999,
+    "color": "White",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/b/o/bow_crystal_tassel_earrings.jpg"
+  },
+  {
+    "product_id": 5176,
+    "sku": "FE-01-B01-503-16",
+    "name": "Forever Love Bracelet",
+    "price": 599,
+    "color": "Gold",
+    "product_type": "Bracelets",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/f/o/forever_love_bracelet.jpg"
+  },
+  {
+    "product_id": 5186,
+    "sku": "FE-01-R01-601-16",
+    "name": "Circular Sheild Ring",
+    "price": 495,
+    "color": "Gold",
+    "product_type": "Rings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/F/E/FE-01-R01-601-16_1.jpg"
+  },
+  {
+    "product_id": 5192,
+    "sku": "FE-01-E01-217-16",
+    "name": "Pink Link Dangler Earrings",
+    "price": 599,
+    "color": "Multi-Color",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/p/i/pink_link_dangler_earrings.jpg"
+  },
+  {
+    "product_id": 5207,
+    "sku": "FE-01-B01-103-16",
+    "name": "Delicate Leaf Hair Pin",
+    "price": 399,
+    "color": "Gold",
+    "product_type": "Body Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/d/s/dsc_1844.jpg"
+  },
+  {
+    "product_id": 5255,
+    "sku": "FE-02-E01-506-16",
+    "name": "Pearl Tassel Juhmka Earrings",
+    "price": 1099,
+    "color": "White",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/F/E/FE-02-E01-506-16_1.jpg"
+  },
+  {
+    "product_id": 5258,
+    "sku": "FE-02-B01-303-16",
+    "name": "Lone Leaf Pin",
+    "price": 399,
+    "color": "Gold",
+    "product_type": "Body Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/F/E/FE-02-B01-303-16_1_1.jpg"
+  },
+  {
+    "product_id": 5490,
+    "sku": "FE-02-E01-730-16",
+    "name": "Square Crystal Pearl Earrings",
+    "price": 499,
+    "color": "Silver",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/s/q/square_crystal_pearl_earrings.jpg"
+  },
+  {
+    "product_id": 5675,
+    "sku": "MR-03-R01-101-16",
+    "name": "Crystal Transformic Ring",
+    "price": 699,
+    "color": "Gold",
+    "product_type": "Rings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/M/R/MR-03-R01-101-16_1.jpg"
+  },
+  {
+    "product_id": 5709,
+    "sku": "MR-03-E01-404-16",
+    "name": "Hallow Flora Earrings",
+    "price": 899,
+    "color": "Black",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/h/a/hallow_flora_earrings.jpg"
+  },
+  {
+    "product_id": 5720,
+    "sku": "MR-03-E01-204-16",
+    "name": "Semi Circle Tassel Earrings",
+    "price": 799,
+    "color": "Gold",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/s/e/semi_circle_tassel_earrings.jpg"
+  },
+  {
+    "product_id": 5730,
+    "sku": "MR-03-E01-214-16",
+    "name": "Mini Crystal Lazer Earrings",
+    "price": 499,
+    "color": "Gold",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/m/i/mini_crystal_lazer_earrings.jpg"
+  },
+  {
+    "product_id": 5837,
+    "sku": "N01P1147",
+    "name": "Grand Cursive English Pendant",
+    "price": 1400,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/g/r/grand_cursive_english_pendant_1.jpg"
+  },
+  {
+    "product_id": 5845,
+    "sku": "AP-02-N01-601-16",
+    "name": "Noir Punk Choker Necklace",
+    "price": 1099,
+    "color": "Black",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/n/o/noir_punk_choker_necklace.jpg"
+  },
+  {
+    "product_id": 5849,
+    "sku": "AP-02-E01-605-16",
+    "name": "Vintage Lip Earrings",
+    "price": 600,
+    "color": "Silver",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/v/i/vintage_lip_earrings.jpg"
+  },
+  {
+    "product_id": 5863,
+    "sku": "MA-01-E01-308-16",
+    "name": "Oval Pearl Hoop Earrings",
+    "price": 799,
+    "color": "White",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/o/v/oval_pearl_hoop_earrings.jpg"
+  },
+  {
+    "product_id": 5901,
+    "sku": "NV-01-C01-224-16",
+    "name": "Mirror",
+    "price": 199,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-224-16_1.jpg"
+  },
+  {
+    "product_id": 5902,
+    "sku": "NV-01-C01-225-16",
+    "name": "Perfume",
+    "price": 199,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-225-16_1_1.jpg"
+  },
+  {
+    "product_id": 5904,
+    "sku": "NV-01-C01-227-16",
+    "name": "Eyeshadow Palette",
+    "price": 249,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-227-16_1_1.jpg"
+  },
+  {
+    "product_id": 5905,
+    "sku": "NV-01-C01-228-16",
+    "name": "Keychain",
+    "price": 349,
+    "color": "Gold(FLASH PLATED)",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-228-16_1.jpg"
+  },
+  {
+    "product_id": 5906,
+    "sku": "N01P1151",
+    "name": "Personalized Cursive English Keychain",
+    "price": 899,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/0/N01P1151_1.jpg"
+  },
+  {
+    "product_id": 5907,
+    "sku": "N01P1152",
+    "name": "Pb Logo Keychain",
+    "price": 700,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/0/N01P1152_1.jpg"
+  },
+  {
+    "product_id": 5934,
+    "sku": "MA-01-E01-503-16",
+    "name": "Love Lust Clip On Earrings",
+    "price": 545,
+    "color": "Gold",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/d/s/dsc_4285_copy_1.jpg"
+  },
+  {
+    "product_id": 5949,
+    "sku": "MA-01-N02-103-16",
+    "name": "Cobalt Hem Crystal Necklace",
+    "price": 699,
+    "color": "White",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/n/e/necklacezoom-cobalt_hem_crystal_necklace_.jpg"
+  },
+  {
+    "product_id": 5978,
+    "sku": "MA-01-E01-508-16",
+    "name": "Rose On Blossom Earrings",
+    "price": 699,
+    "color": "Orange",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/r/o/rose_on_blossom_earrings.jpg"
+  },
+  {
+    "product_id": 5993,
+    "sku": "MA-01-E01-518-16",
+    "name": "Lush Crystal Earrings",
+    "price": 899,
+    "color": "Green",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/l/u/lush_crystal_earrings.jpg"
+  },
+  {
+    "product_id": 6017,
+    "sku": "MA-01-E02-123-16",
+    "name": "Octagon With Aztec Earring",
+    "price": 749,
+    "color": "Gold",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/o/c/octagon_with_aztec_earring.jpg"
+  },
+  {
+    "product_id": 6029,
+    "sku": "MA-01-E02-140-16",
+    "name": "Hoops With \"W' Tassels Earrings",
+    "price": 799,
+    "color": "Black",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/h/o/hoops_with_w_tassels_earrings1.jpg"
+  },
+  {
+    "product_id": 6030,
+    "sku": "MA-01-E02-141-16",
+    "name": "Love In A Triangle Earrings",
+    "price": 749,
+    "color": "Gold",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/l/o/love_in_a_triangle_earrings.jpg"
+  },
+  {
+    "product_id": 6065,
+    "sku": "MA-01-N02-123-16",
+    "name": "Elegant Enlightened Necklace/ Bodychain",
+    "price": 1199,
+    "color": "Black",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/e/l/elegant_enlightened_necklace.jpg"
+  },
+  {
+    "product_id": 6222,
+    "sku": "B01P1154",
+    "name": "Outline Cursive English Bracelet",
+    "price": 1400,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/B/0/B01P1154_1.jpg"
+  },
+  {
+    "product_id": 6223,
+    "sku": "N01P1155",
+    "name": "Dog Bone Name Pendant",
+    "price": 1400,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/d/o/dog_bone_name_pendant.jpg"
+  },
+  {
+    "product_id": 6224,
+    "sku": "N01P1104",
+    "name": "Date Cut-Out Bar Pendant",
+    "price": 1300,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/d/a/date_cut-out_bar_pendant.jpg"
+  },
+  {
+    "product_id": 6226,
+    "sku": "N01P1108",
+    "name": "Vertical Name Pendant",
+    "price": 1400,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/v/e/vertical_name_pendant.jpg"
+  },
+  {
+    "product_id": 6228,
+    "sku": "N01P1115",
+    "name": "Cat Initial Pendant",
+    "price": 1400,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/c/a/cat_initial_pendant.jpg"
+  },
+  {
+    "product_id": 6229,
+    "sku": "N01P1153",
+    "name": "Medula Cursive Pendant",
+    "price": 1400,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/m/e/medula_cursive_pendant_1.jpg"
+  },
+  {
+    "product_id": 6230,
+    "sku": "B01P1119",
+    "name": "Silver Outline Cursive English Bracelet",
+    "price": 1400,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/B/0/B01P1119_1.jpg"
+  },
+  {
+    "product_id": 6231,
+    "sku": "N01P1120",
+    "name": "Silver Dog Bone Name Pendant",
+    "price": 1400,
+    "color": "Silver",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/s/i/silver_dog_bone_name_pendant.jpg"
+  },
+  {
+    "product_id": 6232,
+    "sku": "N01P1121",
+    "name": "Silver Date Cut-Out Bar Pendant",
+    "price": 1300,
+    "color": "Silver",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/s/i/silver_date_cut-out_bar_pendant.jpg"
+  },
+  {
+    "product_id": 6233,
+    "sku": "B01P1124",
+    "name": "Silver Intricate Name Bracelet",
+    "price": 1300,
+    "color": "Silver",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/B/0/B01P1124_1.jpg"
+  },
+  {
+    "product_id": 6234,
+    "sku": "N01P1125",
+    "name": "Silver Vertical Name Pendant",
+    "price": 1400,
+    "color": "Silver",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/s/i/silver_vertical_name_pendant.jpg"
+  },
+  {
+    "product_id": 6235,
+    "sku": "B01P1128",
+    "name": "Silver Cloud Cut-Out Bracelet",
+    "price": 1350,
+    "color": "Silver",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/B/0/B01P1128_1.jpg"
+  },
+  {
+    "product_id": 6236,
+    "sku": "N01P1132",
+    "name": "Silver Cat Initial Pendant",
+    "price": 1400,
+    "color": "Silver",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/s/i/silver_cat_initial_pendant.jpg"
+  },
+  {
+    "product_id": 6237,
+    "sku": "N01P1156",
+    "name": "Silver Medula Cursive Pendant",
+    "price": 1400,
+    "color": "Silver",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/s/i/silver_medula_cursive_pendant_1.jpg"
+  },
+  {
+    "product_id": 6266,
+    "sku": "JU-01-B01-407-16",
+    "name": "Vivid Beads Bracelet",
+    "price": 699,
+    "color": "Multi-Color",
+    "product_type": "Bracelets",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/s/w/swarovski_beads_bracelet.jpg"
+  },
+  {
+    "product_id": 6270,
+    "sku": "JU-01-N01-404-16",
+    "name": "Painted Wooden Pendant Necklace",
+    "price": 1199,
+    "color": "Multi-Color",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/J/U/JU-01-N01-404-16_1.jpg"
+  },
+  {
+    "product_id": 6276,
+    "sku": "JU-01-B01-410-16",
+    "name": "Earthy Tone Beaded Bracelet",
+    "price": 699,
+    "color": "Multi-Color",
+    "product_type": "Bracelets",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/e/a/earthy_tone_beaded_bracelet.jpg"
+  },
+  {
+    "product_id": 6280,
+    "sku": "JU-01-E01-503-16",
+    "name": "Geometric Gold Earrings",
+    "price": 599,
+    "color": "Gold",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/g/e/geometric_gold_earrings.jpg"
+  },
+  {
+    "product_id": 6282,
+    "sku": "JU-01-E01-504-16",
+    "name": "Semi Round Gold Earrings",
+    "price": 599,
+    "color": "Gold",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/s/e/semi_round_gold_earrings.jpg"
+  },
+  {
+    "product_id": 6289,
+    "sku": "JU-01-E01-511-16",
+    "name": "Long Circular Earrings",
+    "price": 599,
+    "color": "Gold",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/J/U/JU-01-E01-511-16_1.jpg"
+  },
+  {
+    "product_id": 6300,
+    "sku": "JU-01-E01-609-16",
+    "name": "Silver Long Pin Circular Stud Earrings",
+    "price": 749,
+    "color": "Silver",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/s/i/silver_long_pin_circular_stud_earrings.jpg"
+  },
+  {
+    "product_id": 6303,
+    "sku": "JU-01-E01-612-16",
+    "name": "Ear Drop Pendant Earrings",
+    "price": 599,
+    "color": "Gold",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/e/a/ear_drop_pendant_earrings.jpg"
+  },
+  {
+    "product_id": 6305,
+    "sku": "JU-01-E01-613-16",
+    "name": "Long Pin Circular Stud Earrings",
+    "price": 749,
+    "color": "Gold",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/l/o/long_pin_circular_stud_earrings.jpg"
+  },
+  {
+    "product_id": 6318,
+    "sku": "JU-01-E01-908-16",
+    "name": "Circular Smooth Pendant Earrings",
+    "price": 649,
+    "color": "Silver",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/c/i/circular_smooth_pendant_earrings.jpg"
+  },
+  {
+    "product_id": 6324,
+    "sku": "JU-01-E01-912-16",
+    "name": "Colorful Feather Tassel Earrings",
+    "price": 699,
+    "color": "Multi-Color",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/J/U/JU-01-E01-912-16_1.jpg"
+  },
+  {
+    "product_id": 6328,
+    "sku": "JU-01-E01-916-16",
+    "name": "Hollow Moon Earrings",
+    "price": 749,
+    "color": "Silver",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/h/o/hollow_moon_earrings.jpg"
+  },
+  {
+    "product_id": 6330,
+    "sku": "JU-01-E01-918-16",
+    "name": "Circular Ring Silver Earrings",
+    "price": 799,
+    "color": "Silver",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/c/i/circular_ring_silver_earrings.jpg"
+  },
+  {
+    "product_id": 6336,
+    "sku": "JU-01-E01-922-16",
+    "name": "Dragonfly Earrings",
+    "price": 699,
+    "color": "Gold",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/d/r/dragonfly_earrings.jpg"
+  },
+  {
+    "product_id": 6394,
+    "sku": "JU-01-N02-516-16",
+    "name": "Star Crochet Necklace",
+    "price": 549,
+    "color": "Black",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/s/t/star_crochet_necklace.jpg"
+  },
+  {
+    "product_id": 6405,
+    "sku": "JU-01-E02-503-16",
+    "name": "White Marble Earrings",
+    "price": 649,
+    "color": "Multi-Color",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/w/h/white_marble_earrings1.jpg"
+  },
+  {
+    "product_id": 6408,
+    "sku": "JU-01-N01-501-16",
+    "name": "Intricate Ring Set",
+    "price": 699,
+    "color": "Gold",
+    "product_type": "Rings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/i/n/intericate_ring_set.jpg"
+  },
+  {
+    "product_id": 6410,
+    "sku": "JU-01-B01-408-16",
+    "name": "Elegant White Rhinestone Bracelet",
+    "price": 699,
+    "color": "White",
+    "product_type": "Bracelets",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/d/s/dsc_5833.jpg"
+  },
+  {
+    "product_id": 6419,
+    "sku": "JU-01-N02-201-16",
+    "name": "Rectangular Pendant Gold Chain",
+    "price": 649,
+    "color": "Gold",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/j/u/ju-01-n02-201-16.jpg"
+  },
+  {
+    "product_id": 6422,
+    "sku": "JU-01-E02-207-16",
+    "name": "Criss Cross Hoop Earrings",
+    "price": 499,
+    "color": "Gold",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/J/U/JU-01-E02-207-16_1.jpg"
+  },
+  {
+    "product_id": 6424,
+    "sku": "JU-01-E02-210-16",
+    "name": "Diamonds In Hoop Earrings",
+    "price": 649,
+    "color": "Gold",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/d/i/diamonds_in_hoop_earrings.jpg"
+  },
+  {
+    "product_id": 6430,
+    "sku": "JU-01-E02-304-16",
+    "name": "Tubular Hoop Earrings",
+    "price": 549,
+    "color": "Gold",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/J/U/JU-01-E02-304-16_1.jpg"
+  },
+  {
+    "product_id": 6431,
+    "sku": "JU-01-E02-305-16",
+    "name": "Silver Tubular Hoop Earrings",
+    "price": 549,
+    "color": "Silver",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/J/U/JU-01-E02-305-16_1.jpg"
+  },
+  {
+    "product_id": 6432,
+    "sku": "JU-01-E02-306-16",
+    "name": "Achromatic And Geometric Earrings",
+    "price": 649,
+    "color": "Black And White",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/J/U/JU-01-E02-306-16_1.jpg"
+  },
+  {
+    "product_id": 6433,
+    "sku": "MA-02-B01-803-16",
+    "name": "Hull And Bead Bracelet",
+    "price": 975,
+    "color": "Peach",
+    "product_type": "Bracelets",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/d/s/dsc_6027.jpg"
+  },
+  {
+    "product_id": 6448,
+    "sku": "JU-01-B01-101-16",
+    "name": "All Accessories Set",
+    "price": 999,
+    "color": "Silver",
+    "product_type": "Bracelets",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/2/0/20.jpg"
+  },
+  {
+    "product_id": 6464,
+    "sku": "JU-01-B01-701-16",
+    "name": "Letter Cuff Bangle",
+    "price": 499,
+    "color": "Silver",
+    "product_type": "Bracelets",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/J/U/JU-01-B01-701-16_1.jpg"
+  },
+  {
+    "product_id": 6496,
+    "sku": "JU-03-N01-103-16",
+    "name": "Square Cut Out Choker Necklace",
+    "price": 1299,
+    "color": "Gold",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/i/m/img_4415.jpg"
+  },
+  {
+    "product_id": 6526,
+    "sku": "NV-01-C01-224-15",
+    "name": "Musical Note",
+    "price": 249,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/d/s/dsc_6221.jpg"
+  },
+  {
+    "product_id": 6527,
+    "sku": "NV-01-C01-225-15",
+    "name": "Silver Musical Note",
+    "price": 249,
+    "color": "Silver",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/d/s/dsc_6221-2.jpg"
+  },
+  {
+    "product_id": 6537,
+    "sku": "JU-01-E02-212-16",
+    "name": "Classy Rectangular Earrings",
+    "price": 499,
+    "color": "Gold",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/J/U/JU-01-E02-212-16_1.jpg"
+  },
+  {
+    "product_id": 6550,
+    "sku": "AU-01-N01-202-16",
+    "name": "Ring In Ring Beaded Chain",
+    "price": 799,
+    "color": "Black",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/A/U/AU-01-N01-202-16_1_1.jpg"
+  },
+  {
+    "product_id": 6568,
+    "sku": "AU-01-R01-301-16",
+    "name": "Antique Crystal Ring",
+    "price": 499,
+    "color": "White",
+    "product_type": "Rings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/A/U/AU-01-R01-301-16_1.jpg"
+  },
+  {
+    "product_id": 6615,
+    "sku": "AU-01-N01-803-16",
+    "name": "Gothic Retro Necklace",
+    "price": 499,
+    "color": "Multi-Color",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/A/U/AU-01-N01-803-16_1_1.jpg"
+  },
+  {
+    "product_id": 6618,
+    "sku": "AU-01-N01-805-16",
+    "name": "Oceanic Blossom Necklace",
+    "price": 499,
+    "color": "Multi-Color",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/A/U/AU-01-N01-805-16_1.jpg"
+  },
+  {
+    "product_id": 6641,
+    "sku": "AU-02-N01-1102-16",
+    "name": "Crystal Rock Choker Necklace",
+    "price": 399,
+    "color": "Black",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/c/r/crystal_rock_choker_necklace_1.jpg"
+  },
+  {
+    "product_id": 6643,
+    "sku": "AU-02-N01-1104-16",
+    "name": "Pearl Link Gold Choker Necklace",
+    "price": 399,
+    "color": "Black",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/d/s/dsc_6950.jpg"
+  },
+  {
+    "product_id": 6647,
+    "sku": "N01P1157",
+    "name": "India Map Cut-Out Pendant",
+    "price": 1300,
+    "color": "Cyan",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/i/n/india_map_cut-out_pendant.jpg"
+  },
+  {
+    "product_id": 6648,
+    "sku": "N01P1158",
+    "name": "Silver India Map Cut-Out Pendant",
+    "price": 1300,
+    "color": "Cyan",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/s/i/silver_india_map_cut-out_pendant.jpg"
+  },
+  {
+    "product_id": 6737,
+    "sku": "FE-02-B01-101-16",
+    "name": "Floral Hanger Hair Pin",
+    "price": 599,
+    "color": "Cyan",
+    "product_type": "Body Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/i/m/img_8367.jpg"
+  },
+  {
+    "product_id": 6741,
+    "sku": "NV-01-C01-226-15",
+    "name": "Believe",
+    "price": 249,
+    "color": "Gold",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/V/NV-01-C01-226-15_1_1.jpg"
+  },
+  {
+    "product_id": 6745,
+    "sku": "NPCH01",
+    "name": "Medula Cursive Pendant",
+    "price": 1400,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/m/e/medula_cursive_pendant.jpg"
+  },
+  {
+    "product_id": 6746,
+    "sku": "NPCH02",
+    "name": "Grand Cursive English Pendant",
+    "price": 1400,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/g/r/grand_cursive_english_pendant.jpg"
+  },
+  {
+    "product_id": 6747,
+    "sku": "NPCH03",
+    "name": "Dual Infinity Style Pendant",
+    "price": 1400,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/d/u/dual_infinity_style_pendant.jpg"
+  },
+  {
+    "product_id": 6748,
+    "sku": "NPCH04",
+    "name": "Indi Script Pendant",
+    "price": 1400,
+    "color": "Gold",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/i/n/indi_script_pendant_3.jpg"
+  },
+  {
+    "product_id": 6749,
+    "sku": "NPCH05",
+    "name": "Silver Medula Cursive Pendant",
+    "price": 1400,
+    "color": "Silver",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/s/i/silver_medula_cursive_pendant.jpg"
+  },
+  {
+    "product_id": 6750,
+    "sku": "NPCH06",
+    "name": "Silver Grand Cursive English Pendant",
+    "price": 1400,
+    "color": "Silver",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/s/i/silver_grand_cursive_english_pendant.jpg"
+  },
+  {
+    "product_id": 6751,
+    "sku": "NPCH07",
+    "name": "Silver Dual Infinity Style Pendant",
+    "price": 1400,
+    "color": "Silver",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/N/P/NPCH07_1.jpg"
+  },
+  {
+    "product_id": 6752,
+    "sku": "NPCH08",
+    "name": "Silver Indi Script Pendant",
+    "price": 1400,
+    "color": "Silver",
+    "product_type": "Personalized Jewelry",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/s/i/silver_indi_script_pendant.jpg"
+  },
+  {
+    "product_id": 6771,
+    "sku": "SE-02-E-201-16",
+    "name": "Vine Drop Earrings",
+    "price": 799,
+    "color": "Multi-Color",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/i/m/img_1782.jpg"
+  },
+  {
+    "product_id": 6777,
+    "sku": "SE-02-N-507-16",
+    "name": "Mint Choker",
+    "price": 599,
+    "color": "Blue",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/s/e/se-02-n-507-16-1.jpg"
+  },
+  {
+    "product_id": 6778,
+    "sku": "SE-02-N-508-16",
+    "name": "Rosaline Choker",
+    "price": 599,
+    "color": "Black",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/r/o/rosaline_choker.jpg"
+  },
+  {
+    "product_id": 6790,
+    "sku": "SE-02-N-1105-16",
+    "name": "Macilent Necklace Set",
+    "price": 999,
+    "color": "Multi-Color",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/S/E/SE-02-N-1105-16_1_1.jpg"
+  },
+  {
+    "product_id": 6801,
+    "sku": "SE-02-E-1103-16",
+    "name": "Effervescent Drop Earrings",
+    "price": 799,
+    "color": "Multi-Color",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/i/m/img_1785_copy.jpg"
+  },
+  {
+    "product_id": 6803,
+    "sku": "SE-02-E-1105-16",
+    "name": "Cassandra Drop Earrings",
+    "price": 799,
+    "color": "Multi-Color",
+    "product_type": "Earrings",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/S/E/SE-02-E-1105-16_1_1.jpg"
+  },
+  {
+    "product_id": 6809,
+    "sku": "SE-02-N-1115-16",
+    "name": "Choker Bullet Tassel Necklace",
+    "price": 1299,
+    "color": "Black",
+    "product_type": "Necklaces",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/S/E/SE-02-N-1115-16_1_1.jpg"
+  },
+  {
+    "product_id": 6837,
+    "sku": "NV-01-C01-234-16",
+    "name": "Sky Blue Tassel",
+    "price": 199,
+    "color": "Blue",
+    "product_type": "Charms",
+    "product_image": "//d1jbf5z8givhnm.cloudfront.net/media/catalog/product/i/m/img_7170_copy_1_.jpg"
+  }
+]
