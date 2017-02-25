@@ -19,7 +19,7 @@
 				$result = $this->$func($filepath,$pricerange,$color,$category,$sortby);
 				$this->response($result,200);
 			}else {
-				$this->response('',404);				// If the method not exist with in this class, response would be "Page not found".
+				$this->response('Invalid Request',404);				// If the method not exist with in this class, response would be "Page not found".
 			}
 		}
 	}
@@ -32,5 +32,9 @@
     $category = isset($customList->category)?$customList->category:'';
     $sortby = isset($customList->sortby)?$customList->sortby:'';
 	$api = new API;
-	$api->processApi(PROD_JSON_PATH,$pricerange,$color,$category,$sortby);
+	if(isset($_REQUEST['action']) && $_REQUEST['action']!=''){
+		$api->processApi(PROD_JSON_PATH,$pricerange,$color,$category,$sortby);
+	}else{
+		$api->response('Invalid Request',404);
+	}
 ?>

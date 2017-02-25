@@ -82,7 +82,7 @@
 			return $list;
 		}
 
-		public function list($path,$pricerange='',$color='',$category='',$sortby=''){
+		public function plist($path,$pricerange='',$color='',$category='',$sortby=''){
 			$prodJson = file_get_contents($path);
 			if($pricerange != '' || $color != '' || $category != '' || $sortby != '') {
 				$result = json_decode($prodJson);
